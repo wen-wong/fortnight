@@ -1,0 +1,20 @@
+# Installed Project Dependencies
+node_modules
+
+# Compiled NodeJS Project
+build
+
+# Code Coverage
+coverage
+
+# Developer VSCode configuration
+.vscode
+
+# Private Credentials
+.env
+
+# MacOS miscellaneous files
+.DS_Store
+
+# miscellaneous files
+npm-debug.log

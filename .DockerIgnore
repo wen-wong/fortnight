@@ -1,0 +1,20 @@
+# Installed Project Dependencies
+node_modules
+
+# Compiled NodeJS Project
+build
+
+# Code Coverage
+coverage
+
+# Test Files
+test
+
+# Developer VSCode configuration
+.vscode
+
+# MacOS miscellaneous files
+.DS_Store
+
+# miscellaneous files
+npm-debug.log
